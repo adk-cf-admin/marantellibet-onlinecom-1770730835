@@ -1,0 +1,19 @@
+{
+  "name": "MarantelliBet",
+  "short_name": "MarantelliBet",
+  "theme_color": "",
+  "background_color": "#1A1A1A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770729293-marantellibet-1.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

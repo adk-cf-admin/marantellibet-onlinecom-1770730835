@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#1A1A1A",
+            "lang-select-color": "#222829",
+            "bg-light": "#1A1A1A",
+            "welcome-bonus-bg": "#1A1A1A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0A0A0A",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#636363",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#EF4136",
+            "yellow": "#636363",
+            "yellow-button": "#EF4136",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#1A1A1A",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#49494b",
+            "providers-back": "#1A1A1A",
+            "faq-label": "#1A1A1A",
+            "bg-footer": "#1A1A1A",
+            "copyright": "#e7e7d5",
+            "starColor": "#EF4136",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2840"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2841",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "MarantelliBet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2843",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "MarantelliBet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "MarantelliBet",
+                    "title": "MarantelliBet: Racing, Sports, Same Game Multi & Same Race Multi — Fast Betting and Clear Payouts",
+                    "description": "Join MarantelliBet for thoroughbred, greyhound and harness racing plus top sports markets. Build Same Game Multis and Same Race Multis, explore member specials, and stay in control with smart limits. Stake from $0.50 and withdraw winnings via secure bank transfer.",
+                    "canonical": "marantellibet-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2844",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "marantellibet-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2845"
+                },
+                "hero": {
+                    "title": "MarantelliBet — Racing & Sports Betting with Powerful Multi Options",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2846",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2847",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Sharp odds and clear payout calculations.",
+                        "Bigger multi wins with flexible builders.",
+                        "Bonus bets for activity and smart plays.",
+                        "Racing promos: extra places, odds boosts.",
+                        "Same Game Multi and Same Race Multi.",
+                        "Live race streaming and rich racecards.",
+                        "Fast platform, bets placed in seconds."
+                    ],
+                    "advantagesAfterText": "We’re built for racing and sport punters who want speed, clarity, and confidence in settlements. Our markets, betslip tools, and ongoing specials keep every session smooth and rewarding.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Marantellibet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2848",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Marantellibet App",
+                    "mobileGooglePlayImageTitle": "Marantellibet App",
+                    "mobileIosImageTitle": "Marantellibet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Marantellibet",
+                        "description1": "We stand out with deep racing expertise and powerful multi builders that lift your winning potential. We keep limits and settlement rules clear, so you know exactly what to expect.\n",
+                        "items": [
+                            "SRM winnings — up to $15,000.",
+                            "Quaddie winnings — up to $25,000.",
+                            "Minimum stake — from $0.50."
+                        ],
+                        "description2": "We’re MarantelliBet, a bookmaking experience built for racing and sport fans who want a modern way to play. Our platform blends trackside heritage with a smooth online journey, so every event feels effortless from start to finish. We focus on all three racing codes — thoroughbreds, greyhounds, and harness — alongside the sports people follow week in, week out. Navigation stays simple: find next‑to‑jump markets, open the racecard, and pick your plays without friction. \n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2849",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "On racing, you can choose fixed odds, tote products, and SP options to match your preferred style. For deeper strategies, we support Same Race Multi, letting you combine winners and placings within a single race for a bigger outcome. In sport, we power Same Game Multi so you can stack match results and key stats into one bet and lift your potential return. We also provide decision‑helping content such as form insights, runner notes, price movement, and key race details. When major meets roll around, we lift the vibe with themed hubs, featured markets, and event‑driven specials built around the week’s biggest moments. Our bonus ecosystem is centred on regular member promos designed to keep your favourite markets exciting. Seasonal campaigns spotlight racing and multi bets with simple, transparent mechanics. For consistent players, we tailor personalised offers and club‑style perks tied to activity. Convenience matters: funding, bet management, and account control are designed to be done in seconds. Your account area keeps your bets, transactions, and history in one clear view. Withdrawals are structured so you can receive winnings to your bank account through standard verification steps. We take security seriously, protecting data with modern encryption and robust identity checks. Responsible play is a core part of what we do, with deposit limits, control tools, and self‑exclusion options to help you stay on track. Support is available via chat, email, and phone so questions about bets, settlements, and accounts get handled quickly. The result is an all‑in‑one racing and sports platform where excitement, ease of use, and trust come together."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Marantellibet: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules for accessing MarantelliBet: play with confidence and care\n\n<\/h3>\n\n<p>\nWe keep our rules straightforward so your betting experience stays safe, lawful, and enjoyable. Access is available to adults only, and age is checked during sign‑up. We operate under identity‑verification requirements, so your account details must be genuine and kept up to date. Our services are provided within permitted jurisdictions, so it’s important to be in an eligible location when using the platform. To protect fair play, we ask that you keep a single account and never use someone else’s details. We also ask you not to hide your location or use technical masking methods, so bets and payouts can be processed correctly. For deposits and withdrawals, we follow standard checks designed to protect you and your balance. We may request documents if needed for security or compliance. We recommend setting limits early and wagering only what you’re comfortable spending. Responsible play is central to what we do, and we support tools that help you manage time, budget, and intensity. If betting stops feeling like entertainment, take a break and use our control and exclusion features.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess and registration conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge: 18+ with date‑of‑birth verification.\n\n<\/li>\n            <li>• \nOne account: one profile per person.\n\n<\/li>\n            <li>• \nDetails: use real name and contact info.\n\n<\/li>\n            <li>• \nVerification: may be required before withdrawals.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNot allowed\n\n\n<\/h4>\n\n <ul>\n            <li>• \nUsing anyone else’s identity or documents.\n\n<\/li>\n            <li>• \nMultiple accounts to bypass rules.\n\n<\/li>\n            <li>• \nLocation masking or similar technical workarounds.\n\n<\/li>\n            <li>• \nBetting on behalf of third parties.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nDeposit limits: set them in your account tools.\n\n<\/li>\n            <li>• \nSession timer: keep track of time in‑play.\n\n<\/li>\n            <li>• \nSelf‑exclusion: temporary or permanent options available.\n\n<\/li>\n            <li>• \nNational exclusion: available via BetStop.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing & Security: how we protect your data and bets\n\n<\/h3>\n\n<p>\nWe operate as a licensed bookmaker and follow regulatory requirements that set standards for fair betting, customer protection, and transaction oversight. Our model is built on transparent wagering rules and clear settlement processes, supported by identity verification where required. We also follow AML\/CTF obligations, which means identity and payment‑method checks are part of a safe ecosystem. For you, that translates into predictability: you understand why documents may be requested and how that protects your account. We keep the balance between convenience and compliance so the platform remains reliable over time.\n\n<\/p>\n<br>\n\n\n<p>\nData protection at MarantelliBet follows a risk‑minimisation approach: we collect and process only what’s needed for service delivery, verification, and transactions. Data transmitted between your device and our systems is protected by modern connection‑level encryption, reducing interception risk. We apply access controls inside our services so personal information is handled only by authorised processes. For payment activity, we use verification workflows and monitoring designed to spot suspicious behaviour and prevent unauthorised actions. This strengthens account resilience and safeguards your balance.\n\n<\/p>\n<br>\n<p>\nOur privacy approach is designed to make it clear what’s collected, why it’s required, and how you can manage preferences such as marketing communications. We use personal information to run your account, provide support, settle bets, and meet mandatory obligations. In some cases, identity checks may use third‑party verification services that validate details against permitted sources to help confirm identity faster. We keep strict purpose limitation: data is used only for necessary objectives, not excessive processing. You can update your details at any time to keep everything accurate and smooth.\n\n<\/p>\n<br>\n<p>\nKYC is a key part of security. We verify core customer details to ensure the account belongs to you and that activity remains lawful and safe. If automated checks can’t confirm identity, we provide a straightforward manual document path. We may request proof of identity, address, and sometimes payment‑method evidence to protect withdrawals and reduce fraud. The more accurate and current your details are, the faster verification can be and the easier future transactions become.\n\n<\/p>\n<br>\n<p>\nSecurity also depends on smart user habits. We encourage strong passwords, never sharing access, and staying alert to account notifications. Responsible play tools help protect financial wellbeing, and that’s an important part of overall safety. If anything looks unclear about a transaction or settlement, our support team is ready to help you resolve it quickly. Our goal is confidence at every step — from sign‑up to receiving your winnings.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMarantelliBet Customer Support: fast, clear, helpful\n\n<\/h3>\n\n<p>\nWe build support around practical solutions, so you get answers without unnecessary back‑and‑forth. Our team assists with registration, verification, bets, settlements, payments, and account settings. We offer multiple contact options so you can choose what suits you best. Live chat is ideal for quick, conversational help, while email is great for sending documents and receiving detailed guidance. Phone support is perfect when you want to talk through a situation and confirm details immediately. We explain settlement rules in plain language so you understand outcomes and how results are calculated. For unusual cases, we gather bet details and provide a step‑by‑step resolution. We aim to respond promptly, especially during peak activity and major events. To us, quality means accuracy, politeness, and clear actions you can apply right inside your account. English is our primary support language, and we focus on making every reply easy to follow with examples where helpful. If something is urgent, we’ll point you to the quickest path in the very first message.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: best for fast help on bets and settlements.\n\n<\/li>\n            <li>• \nEmail: ideal for verification and detailed instructions.\n\n<\/li>\n            <li>• \nPhone: great for real‑time clarifications and urgent matters.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse time and service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: quick replies during active support hours.\n\n<\/li>\n            <li>• \nEmail: detailed guidance with careful checks.\n\n<\/li>\n            <li>• \nPhone: immediate explanations and request logging.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEnglish: primary support language.\n\n<\/li>\n            <li>• \nClarity: simple wording and practical examples.\n\n<\/li>\n            <li>• \nComplex cases: step‑by‑step instructions when needed.\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at Marantellibet",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nMarantelliBet Loyalty Programme: club perks for active players\n\n<\/h3>\n<p>\nOur loyalty programme is designed for people who bet regularly and want more value in their favourite markets. We build it around real activity: the more you play across racing and sport, the more personalised offers you see in your account. The idea is simple — we reward consistent engagement, so benefits build over time. Once you register and confirm your account, you’re automatically part of the club. We take your preferences into account so offers feel relevant rather than generic. Loyalty here is about more than bonus bets — it includes odds boosts, featured markets, major‑event specials, and multi‑bet perks. We refresh club campaigns often, giving you new reasons to jump in across racing and weekly sports rounds. Our tier system keeps things transparent, showing what you have now and what unlocks next. Tier movement is driven by settled bet activity over a period, and progress is visible inside your account tools. Each new tier strengthens promo access and expands personalised offers. We also run themed weeks where certain markets unlock extra club value. The result is a practical programme that lifts the overall betting experience and adds meaning to every session.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nHow to join\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAccount creation and detail confirmation: 18+ with current contact info.\n\n<\/li>\n            <li>• \nVerification before withdrawals: unlocks full club access.\n\n<\/li>\n            <li>• \nAutomatic enrolment: no separate application required.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nStarter: active on sign‑up — access to core promos.\n\n<\/li>\n            <li>• \nSilver: 10+ settled bets per period — boosts and racing specials.\n\n<\/li>\n            <li>• \nGold: 30+ settled bets per period — bigger bonus‑bet access and multi perks.\n\n<\/li>\n            <li>• \nPlatinum: 60+ settled bets per period — maximum personalisation and priority campaigns.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRewards and perks \n<\/h4>\n\n <ul>\n            <li>• \nActivity bonus bet: up to $25 — on selected weekly events.\n\n<\/li>\n            <li>• \nOdds Boost: up to +10% — on key matches and featured races.\n\n<\/li>\n            <li>• \nExtra Places: up to +2 places — on highlighted race meetings.\n\n<\/li>\n            <li>• \nMulti perks: bonus bet up to $50 — when multi conditions are met.\n\n<\/li>\n\t    <li>• \nRacing spotlight: featured markets and enhanced specials — for major meets.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMarantelliBet Bonuses & Specials: more ways to win\n\n<\/h3>\n\n<p>\nWe regularly run specials that make racing and sports betting even more exciting. Our approach is simple: promos should deliver clear value — stronger odds, extra chances, and smarter ways to play. On racing, we often highlight the week’s key meetings with enhanced conditions across win and place markets. If you love building combinations, our Same Race Multi and multi‑bet specials add extra value when you build your betslip well. In sport, we focus on headline fixtures with odds boosts and featured markets designed around major moments. During big tournaments, we curate “best markets of the day” so it’s easy to pick and bet quickly. We also use multi‑bet insurance mechanics, turning near‑miss moments into bonus‑bet opportunities that keep you in the game. For racing fans, protest‑related payout promos can add extra confidence around certain settlement scenarios. If you enjoy tote products, we feature options like Best Tote or Top Fluctuation on selected markets to help you chase the best available dividend within promo rules. Seasonal activity is aligned with sporting calendars and racing carnivals, with themed campaigns and short‑run specials. At times, we run missions where simple tasks unlock bonus bets and boosts. We support prediction contests and racing challenges where consistency and smart decisions matter. Most offers are built for active, verified members, so what you see in your account stays relevant. We keep rules clear so you know exactly what to do and what you’ll receive. And everything is integrated into the platform so applying a promo takes only a couple of clicks.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses & offers\n<\/h4>\n\n <ul>\n            <li>• \nSports Odds Boost: up to +10% — on selected daily matches.\n\n<\/li>\n            <li>• \nRacing Extra Places: up to 5 places paid — on featured races.\n\n<\/li>\n            <li>• \nSame Race Multi Boost: up to +15% — when building 2+ legs in SRM.\n\n<\/li>\n            <li>• \nSame Game Multi Specials: bonus bet up to $50 — when SGM conditions are met.\n\n<\/li>\n\t    <li>• \nProtest Payout: payout support in review scenarios — per promo rules.\n\n<\/li>\n\t    <li>• \nBest Tote \/ Top Fluctuation: enhanced dividend conditions — on selected markets.\n\n<\/li>\n\t    <li>• \nMulti Insurance: bonus bet up to $25 — for one‑leg near‑miss multis.\n\n<\/li>\n\t    <li>• \nQuaddie Week: featured markets and specials — built for big race days.\n\n<\/li>\n\t    <li>• \nSeasonal Campaigns: bonus bets up to $100 — during major events.\n\n<\/li>\n\t    <li>• \nChallenges & Missions: $10–$30 bonus bet — for completing a task run.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMarantelliBet Betting Options: racing, sport, and multi builders\n<\/h3>\n\n<p>\nWe’re a bookmaker‑first platform, so our core is wagering rather than traditional casino titles. MarantelliBet is built around racing, covering thoroughbreds, greyhounds, and harness with clean racecards and quick access to what’s next to jump. You can choose your style with fixed odds, tote products, and SP options in one place. For strategy players, Same Race Multi lets you combine winners and placings inside a single race. On sport, we cover popular competitions and power Same Game Multi so you can combine outcomes and stats within one match. We support the fundamentals — head‑to‑head, lines, totals — and add featured markets for major event days. The betslip is designed for both singles and multis, with easy leg management right on the slip. We also provide tools that help you read the event, including price movement, market groupings, and racing insights. The result is a platform where you can start simple and scale into more advanced combinations for higher potential returns.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWhat you can bet on\n<\/h4>\n\n <ul>\n            <li>• \nThoroughbred Racing: win\/place, exotics, tote products, fixed odds.\n\n<\/li>\n            <li>• \nGreyhound Racing: fast markets, fixed and tote options, SRM combinations.\n\n<\/li>\n            <li>• \nHarness Racing: core markets, tote products, and event‑driven options.\n\n<\/li>\n            <li>• \nSame Race Multi (SRM): multi within one race across win\/placings.\n\n<\/li>\n\t    <li>• \nAFL \/ NRL: results, lines, totals, featured match markets.\n\n<\/li>\n\t    <li>• \nFootball (soccer): core markets plus expanded stats on selected leagues.\n\n<\/li>\n\t    <li>• \nTennis \/ Basketball \/ Cricket: key markets and round‑based hubs.\n\n<\/li>\n\t    <li>• \nSame Game Multi (SGM): combine outcomes and stats in one match.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum & maximum staking at MarantelliBet: limits made clear\n<\/h3>\n\n<p> \nWe keep limits transparent so you can plan your bankroll with confidence. Our minimum stake is friendly for a careful start, while maximum payouts on certain products provide clear benchmarks for bigger wins. Limits vary by bet type — singles, multis, exotics, and Quaddie each have their own caps. Here’s a simple table covering the key limits.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #636363;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>SRM payout (Thoroughbred)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$15,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>SRM payout (Greyhound)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$10,000<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Quaddie<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$25,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Exotics <\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$15,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Top Fluctuation \/ Best of Tote<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMarantelliBet Withdrawals: methods, speed, and payout limits\n\n<\/h3>\n\n<p>\nWe structure withdrawals so you receive winnings predictably under clear rules. The main withdrawal method is bank transfer to your nominated bank account, supporting transparency and secure processing. Before your first withdrawal, we may request identity verification to protect your account and confirm entitlement to funds. Once verified, future withdrawals are typically simpler and smoother. We process payouts regularly, and your request status is visible in your account so you can track progress. Timing depends on standard banking processing, so final speed combines approval time plus transfer clearing time. Keeping your personal details and bank information current helps avoid delays and errors. In certain cases, we may request payment‑method confirmation if it’s needed for security. We also keep product payout limits clear so you can assess potential return before placing larger bets. For international transfers, a fixed fee may apply, so local bank transfer remains the preferred route for convenience. If you ever need an update, our support team can explain which stage your request is in and what can help speed things up.\n\n<\/p>\n<br>\n\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal methods\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBank transfer to your nominated bank account.\n\n<\/li>\n            <li>• \nWinnings withdrawn from your settled account balance.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPayout speed and processing time\n\n\n<\/h4>\n\n <ul>\n            <li>• \nInitial KYC check: may be required before first withdrawal.\n\n<\/li>\n            <li>• \nRequest handling: processed regularly under internal workflows.\n\n<\/li>\n            <li>• \nBank clearing: depends on standard banking timeframes.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits \n<\/h4>\n\n <ul>\n            <li>• \nSRM (Thoroughbred AU\/NZ): up to $15,000 per event.\n\n<\/li>\n            <li>• \nSRM (Greyhound AU\/NZ): up to $10,000 per event.\n\n<\/li>\n            <li>• \nQuaddie (metro Thoroughbred): up to $25,000 per event.\n\n<\/li>\n            <li>• \nExotics on key tracks: up to $15,000 per event.\n\n\n<\/li>\n\n        <\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can I use MarantelliBet on multiple devices?",
+                            "answer": "Yes — you can sign in on mobile, tablet, and desktop, as long as only you control access and you don’t share your login.\n\n\n"
+                        },
+                        {
+                            "title": "What are racing deductions and how do they affect payouts?",
+                            "answer": "Deductions are standard adjustments when a runner is scratched, which can affect fixed‑odds settlements in line with race rules.\n\n\n"
+                        },
+                        {
+                            "title": "Can I cancel a bet after confirming?",
+                            "answer": "Confirmed bets generally can’t be cancelled, so it’s best to double‑check your selections and stake before finalising.\n\n\n"
+                        },
+                        {
+                            "title": "What does the “one account” rule mean?",
+                            "answer": "One person uses one account so checks, limits, and settlements remain accurate and protect you from misuse.\n\n\n"
+                        },
+                        {
+                            "title": "How can I take a break from betting?",
+                            "answer": "Set limits, activate self‑exclusion for a chosen period, or use the national exclusion option via BetStop to regain control.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

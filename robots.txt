@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://marantellibet-online.com/
+Sitemap: https://marantellibet-online.com/sitemap.xml
